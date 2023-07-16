@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Space Mono', monospace;
+    margin: 50px;
+}
+header{
+    /* background-color: burlywood;
+    border: 3px solid yellowgreen; */
+    height: 30%;
+    margin-bottom: 30px;
+}
+
+
+img {
+     height: 50%;
+     width: 50%;
+    
+}
+
+.column1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.column2 {
+    margin-left: 50px;
+    background-color: aqua;
+    height: 50%;
+}
